@@ -8,8 +8,11 @@ body {
 
 main {
   background-color: lightgray;
+  display: inline-block;
 }
 
 #img-div {
-  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
