@@ -2,6 +2,10 @@ body {
   font-family: 'Times New Roman', Times, serif;
 }
 
-  #title, #subtitle {
+#title, #subtitle {
     text-align: center;
   }
+
+main {
+  background-color: lightgray;
+}
