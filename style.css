@@ -8,7 +8,7 @@ body {
 
 main {
   background-color: lightgray;
-  display: inline-block;
+  display: flex;
 }
 
 #img-div {
@@ -16,5 +16,5 @@ main {
 }
 
 #tribute-info {
-  display:block;
+
 }
