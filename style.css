@@ -10,10 +10,6 @@ main {
   background-color: lightgray;
 }
 
-img {
-
-}
-
-#img-caption {
-
+#img-div {
+  background-color: #ffffff;
 }
