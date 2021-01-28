@@ -8,11 +8,10 @@ body {
 
 main {
   background-color: lightgray;
-  display: grid;
 }
 
 img {
-  justify-self: center;
+
 }
 
 #img-caption {
