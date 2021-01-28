@@ -8,8 +8,13 @@ body {
 
 main {
   background-color: lightgray;
+  display: inline-block;
 }
 
 #img-div {
   background-color: #ffffff;
+}
+
+#tribute-info {
+  display:block;
 }
