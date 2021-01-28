@@ -2,14 +2,16 @@ body {
   font-family: 'Times New Roman', Times, serif;
 }
 
-#title, #subtitle {
-    text-align: center;
-  }
-
 main {
   background-color: lightgray;
   display: flex;
+  flex-direction: column;
+  align-items: center;
 }
+
+#title, #subtitle {
+    text-align: center;
+  }
 
 #img-div {
   background-color: #ffffff;
