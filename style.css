@@ -15,8 +15,12 @@ main {
 
 #img-div {
   background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
 }
 
 #tribute-info {
-
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
