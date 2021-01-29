@@ -14,11 +14,19 @@ main {
     text-align: center;
   }
 
+#image {
+  padding: 0em 3.5em;
+}
+
 #img-div {
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
   padding: 1em;
+}
+
+ caption {
+  text-align: center;
 }
 
 #tribute-info {
