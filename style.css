@@ -23,12 +23,7 @@ main {
   display: flex;
   flex-direction: column;
   padding: 1em;
-}
-
-#img-caption {
-  display: flex;
   align-items: center;
-  text-align: center;
 }
 
 #tribute-info {
