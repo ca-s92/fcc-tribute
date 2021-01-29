@@ -29,5 +29,8 @@ main {
 #key-facts {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+}
+
+li {
+  margin: 1.2%;
 }
