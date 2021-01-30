@@ -17,6 +17,8 @@ main {
 
 #image {
   margin: 0em 5em;
+  max-width: 100%;
+  height: auto;
 }
 
 #img-div {
