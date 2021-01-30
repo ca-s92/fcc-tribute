@@ -31,7 +31,8 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 60%;
+  width: 37%;
+  line-height: 1.3em;
 }
 
 #key-facts {
