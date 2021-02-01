@@ -8,7 +8,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 1em;
+  margin: 1.5em;
 }
 
   h4 {
@@ -33,7 +33,8 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 37%;
+  max-width: 45%;
+  height: auto;
   line-height: 1.3em;
 }
 
